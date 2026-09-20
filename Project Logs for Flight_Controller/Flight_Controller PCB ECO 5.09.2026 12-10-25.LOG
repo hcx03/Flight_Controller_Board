@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=MICROCONTROLLER Member=R24
+Removed Member From Class: ClassName=MICROCONTROLLER Member=R31
+Added Pin To Net: NetName=SWCLK Pin=R15-2
+Add Differential Pair: Number of nets in differential pair NetR1_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR2_2 is 1 instead of 2
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R16 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R17 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R19 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R20 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R21 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R22 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R23 RC0603FR-0710KL
+Added Member To Class: ClassName=MODULES Member=Component R25 RC0603FR-0710KL
+Added Member To Class: ClassName=MODULES Member=Component R26 RC0603FR-0710KL
+Added Member To Class: ClassName=MODULES Member=Component R27 RC0603FR-0710KL
+Added Member To Class: ClassName=MODULES Member=Component R28 RC0603FR-0710KL
+Added Member To Class: ClassName=MODULES Member=Component R29 RC0603FR-0710KL
+Added Member To Class: ClassName=MODULES Member=Component R30 RC0603FR-0710KL

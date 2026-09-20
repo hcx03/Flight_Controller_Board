@@ -1,0 +1,27 @@
+Removed Member From Class: ClassName=MICROCONTROLLER Member=C21
+Removed Member From Class: ClassName=MICROCONTROLLER Member=R25
+Change Component Description : Designator=P12 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P13 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P14 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P15 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Add Differential Pair: Number of nets in differential pair NetR1_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR2_2 is 1 instead of 2
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C15 CAP CER 100nF 0603
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C16 CL21B105KBFNNNE
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component C18 CAP_CER_20pF
+Added Member To Class: ClassName=MODULES Member=Component C20 0603B103K160CT
+Added Member To Class: ClassName=MODULES Member=Component C22 0603B103K160CT
+Added Member To Class: ClassName=MODULES Member=Component C24 0603B103K160CT
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R13 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R14 RC0603JR-0715RL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R15 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R17 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R18 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R20 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R21 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R22 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R24 RC0603FR-0710KL
+Added Member To Class: ClassName=MODULES Member=Component R26 RC0603FR-0710KL
+Added Member To Class: ClassName=MODULES Member=Component R27 RC0603FR-0710KL
+Added Member To Class: ClassName=MODULES Member=Component R29 RC0603FR-0710KL
+Added Member To Class: ClassName=MODULES Member=Component R31 RC0603FR-0710KL

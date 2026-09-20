@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3V3 Pin=C1-2
+Change Component Description : Designator=P12 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P13 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P14 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P15 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Added Pin To Net: NetName=+5V Pin=C1-2

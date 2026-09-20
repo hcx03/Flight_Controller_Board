@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=3V3 Pin=C8-2
+Removed Pin From Net: NetName=3V3 Pin=C9-2
+Removed Pin From Net: NetName=3V3 Pin=C10-2
+Removed Pin From Net: NetName=3V3 Pin=C11-2
+Removed Pin From Net: NetName=3V3 Pin=C12-2
+Removed Pin From Net: NetName=3V3 Pin=C13-2
+Removed Pin From Net: NetName=3V3 Pin=C14-2
+Removed Pin From Net: NetName=3V3 Pin=R13-2
+Removed Pin From Net: NetName=3V3 Pin=R19-1
+Removed Pin From Net: NetName=3V3 Pin=U5-1
+Removed Pin From Net: NetName=3V3 Pin=U5-13
+Removed Pin From Net: NetName=3V3 Pin=U5-19
+Removed Pin From Net: NetName=3V3 Pin=U5-32
+Removed Pin From Net: NetName=3V3 Pin=U5-48
+Removed Pin From Net: NetName=3V3 Pin=U5-64
+Change Component Description : Designator=P12 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P13 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P14 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P15 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Added Pin To Net: NetName=+3V3 Pin=C8-2
+Added Pin To Net: NetName=+3V3 Pin=C9-2
+Added Pin To Net: NetName=+3V3 Pin=C10-2
+Added Pin To Net: NetName=+3V3 Pin=C11-2
+Added Pin To Net: NetName=+3V3 Pin=C12-2
+Added Pin To Net: NetName=+3V3 Pin=C13-2
+Added Pin To Net: NetName=+3V3 Pin=C14-2
+Added Pin To Net: NetName=+3V3 Pin=R13-2
+Added Pin To Net: NetName=+3V3 Pin=U5-1
+Added Pin To Net: NetName=+3V3 Pin=U5-13
+Added Pin To Net: NetName=+3V3 Pin=U5-19
+Added Pin To Net: NetName=+3V3 Pin=U5-32
+Added Pin To Net: NetName=+3V3 Pin=U5-48
+Added Pin To Net: NetName=+3V3 Pin=U5-64
+Added Pin To Net: NetName=+73V3 Pin=R19-1
+Added Net: Name=+73V3
+Add Differential Pair: Number of nets in differential pair NetR1_2 is 1 instead of 2

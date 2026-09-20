@@ -1,0 +1,34 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Flight_Controller.PrjPcb]
+   Generated File[Flight_Controller.GTO]
+   Generated File[Flight_Controller.GTP]
+   Generated File[Flight_Controller.GTS]
+   Generated File[Flight_Controller.GTL]
+   Generated File[Flight_Controller.G1]
+   Generated File[Flight_Controller.G2]
+   Generated File[Flight_Controller.GBL]
+   Generated File[Flight_Controller.GBS]
+   Generated File[Flight_Controller.GBP]
+   Generated File[Flight_Controller.GBO]
+   Generated File[Flight_Controller.GM3]
+   Generated File[Flight_Controller.GKO]
+   Generated File[Flight_Controller.GD1]
+   Generated File[Flight_Controller.GD3]
+   Generated File[Flight_Controller.GD2]
+   Generated File[Flight_Controller.GD5]
+   Generated File[Flight_Controller.GD4]
+   Generated File[Flight_Controller.GG1]
+   Generated File[Flight_Controller.GG3]
+   Generated File[Flight_Controller.GG2]
+   Generated File[Flight_Controller.GG5]
+   Generated File[Flight_Controller.GG4]
+   Generated File[Flight_Controller.GM]
+   Generated File[Flight_Controller.EXTREP]
+   Generated File[Flight_Controller.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 13:24:52 On 20.09.2026

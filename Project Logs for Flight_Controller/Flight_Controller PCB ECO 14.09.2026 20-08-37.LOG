@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3V3 Pin=R15-1
+Change Component Description : Designator=P12 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P13 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P14 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P15 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Added Pin To Net: NetName=+3V3 Pin=R15-1
+Added Pin To Net: NetName=+3V3 Pin=R19-1
+Add Differential Pair: Number of nets in differential pair NetR1_2 is 1 instead of 2

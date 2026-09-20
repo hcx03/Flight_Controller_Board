@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=U5-30
+Added Pin To Net: NetName=NetR25_1 Pin=U6-2
+Added Net: Name=NetR25_1
+Add Differential Pair: Number of nets in differential pair NetR1_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR2_2 is 1 instead of 2

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC6_2 Pin=R8-1
+Removed Pin From Net: NetName=NetC6_2 Pin=R11-2
+Removed Pin From Net: NetName=NetC6_2 Pin=U4-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R11-2
+Added Pin To Net: NetName=NetR8_1 Pin=U4-2
+Added Net: Name=NetR8_1
+Add Differential Pair: Number of nets in differential pair NetR1_2 is 1 instead of 2

@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=R17 Old DesignItemId= New DesignItemId=RES 10K OHM 0603
+Change Component DesignItemId : Designator=R18 Old DesignItemId= New DesignItemId=RES 10K OHM 0603
+Change Component DesignItemId : Designator=R14 Old DesignItemId= New DesignItemId=RES 15 OHM 0603
+Change Component Description : Designator=P12 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P13 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P14 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P15 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Added Pin To Net: NetName=GND Pin=J1-2
+Add Differential Pair: Number of nets in differential pair NetR1_2 is 1 instead of 2

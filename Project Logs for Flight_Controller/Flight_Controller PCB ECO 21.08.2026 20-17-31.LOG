@@ -1,0 +1,292 @@
+Change Component Description : Designator=P12 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P13 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P14 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Change Component Description : Designator=P15 Old Description=Header, Right Angle, 4Way; New Description=Header, Right Angle, 4Way; |Jst / Japan Solderless Terminals S4B-XH-A (LF)(SN)
+Added Component: Designator=L1(INDM868)
+Add component (AddParameter): Name = "Case/Package"; Value = "3232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Fixed Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "China RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-181468578.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-181468578.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-193387366.pdf?src-supplier=JRH+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-193387366.pdf?src-supplier=JRH+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-13133375.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-13133375.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10981368.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10981368.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10855091.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10855091.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10854409.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10854409.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10673122.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10673122.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10546874.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10546874.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10406895.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10406895.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10293436.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10293436.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10187444.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com/IHLP3232DZER150M11-Vishay-datasheet-10187444.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-67039454.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-67039454.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-41195472.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-41195472.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14Description"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-62320561.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14URL"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-62320561.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15Description"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-Dale-datasheet-41169530.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15URL"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-Dale-datasheet-41169530.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16Description"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-17023530.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16URL"; Value = "https://datasheet.octopart.com:443/IHLP3232DZER150M11-Vishay-datasheet-17023530.pdf?src-supplier=Factory+Futures"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Vishay-company-15.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Wirewound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Composite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4.9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "65.3m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "8.26mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "3.9878mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "8.18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IHLP3232DZER150M11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "4.9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "3.7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,08, 10=0,926, 50=0,808, 100=0,767, 200=0,728, 500=0,684 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "65.3m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current (Irms)"; Value = "4.9A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "3.7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8504500000, 8504500000|8504500000|8504500000|8504500000|8504500000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "10.3MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series Resistance"; Value = "65.3m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "IHLP3232DZER150M11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "8.18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "15µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT95P23)
+Added Component: Designator=R13(RES_0603)
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453085.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453085.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/7746/443971-7746445.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/7746/443971-7746445.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453086.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453086.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/7746/443971-7746446.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/7746/443971-7746446.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453087.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/2453/pyu-r-int-thick-7-2453087.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "BERK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603JR-0715RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,10000, 10=0,01900, 100=0,00770, 1000=0,00344, 2500=0,00298 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1720"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "311-15GRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=U5(QFP50P_STM32)
+Add component (AddParameter): Name = "ADC Channels (Resolution)"; Value = "16-Ch 12-Bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "LFQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "China RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-181247466.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-181247466.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-12357803.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-12357803.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-10836202.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-10836202.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-68300831.pdf?src-supplier=ODG+(Origin+Data+Global)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-68300831.pdf?src-supplier=ODG+(Origin+Data+Global)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-62336716.pdf?src-supplier=STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-62336716.pdf?src-supplier=STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-159624841.pdf?src-supplier=Burklin+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-159624841.pdf?src-supplier=Burklin+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-41340394.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-41340394.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-16486449.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-16486449.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-14878676.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-14878676.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-10709433.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/STM32F405RGT6-STMicroelectronics-datasheet-10709433.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Architecture"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Country of Origin"; Value = "Mainland China, Malaysia, Taiwan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DAC Channels (Resolution)"; Value = "2-Ch 12-Bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Bus Width"; Value = "32b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EEPROM Memory Size"; Value = "0B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Export Control Classification Number (ECCN) Code"; Value = "3A991.A.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flash Memory Size"; Value = "1MB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "168MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Harmonized Tariff Schedule (HTS) Code"; Value = "8542.31.00.25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F405RGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Frequency"; Value = "168MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Current"; Value = "109mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "1MB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "1.7µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage (DC)"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of A/D Converters"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of ADC Channels"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of D/A Converters"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Programmable I/O"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PWM Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of SPI Channels"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of UART Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of USART Channels"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of USB Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I2C Channels"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of I/Os"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Interrupts"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Oscillator Type"; Value = "Internal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peripherals"; Value = "POR, RTC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "160=5,69, 320=5,66, 480=5,65, 640=5,64, 800=5,6 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RAM Size"; Value = "196kB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8542310000, 8542310000|8542310000|8542310000|8542310000|8542310000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "STM32F405RGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Grade"; Value = "Industrial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "500µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Watchdog Timer"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "CAN, I2C, I2S, IrDA, SPI, UART, USART, USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Introduction Date"; Value = "2013-06-04"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_2 Pin=L1-1
+Added Pin To Net: NetName=+5 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetP2_2 Pin=Q1-3
+Added Pin To Net: NetName=+5V Pin=R13-1
+Added Pin To Net: NetName=NetP2_1 Pin=R13-2
+Added Pin To Net: NetName=3V3 Pin=U5-1
+Added Pin To Net: NetName=OSC_IN Pin=U5-5
+Added Pin To Net: NetName=OSC_OUT Pin=U5-6
+Added Pin To Net: NetName=NRST Pin=U5-7
+Added Pin To Net: NetName=NetU5_8 Pin=U5-8
+Added Pin To Net: NetName=PC1 Pin=U5-9
+Added Pin To Net: NetName=PC2 Pin=U5-10
+Added Pin To Net: NetName=PC3 Pin=U5-11
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=3V3 Pin=U5-13
+Added Pin To Net: NetName=ESC1_PWM Pin=U5-14
+Added Pin To Net: NetName=ESC2_PWM Pin=U5-15
+Added Pin To Net: NetName=NetP13_3 Pin=U5-16
+Added Pin To Net: NetName=NetP13_2 Pin=U5-17
+Added Pin To Net: NetName=GND Pin=U5-18
+Added Pin To Net: NetName=3V3 Pin=U5-19
+Added Pin To Net: NetName=NetU5_20 Pin=U5-20
+Added Pin To Net: NetName=NetU5_21 Pin=U5-21
+Added Pin To Net: NetName=NetU5_22 Pin=U5-22
+Added Pin To Net: NetName=NetU5_23 Pin=U5-23
+Added Pin To Net: NetName=PC4 Pin=U5-24
+Added Pin To Net: NetName=PC5 Pin=U5-25
+Added Pin To Net: NetName=SERVO3_PWM Pin=U5-26
+Added Pin To Net: NetName=SERVO4_PWM Pin=U5-27
+Added Pin To Net: NetName=LED_Y Pin=U5-28
+Added Pin To Net: NetName=NetR23_1 Pin=U5-29
+Added Pin To Net: NetName=NetR22_1 Pin=U5-30
+Added Pin To Net: NetName=NetC16_2 Pin=U5-31
+Added Pin To Net: NetName=3V3 Pin=U5-32
+Added Pin To Net: NetName=SERVO1_PWM Pin=U5-37
+Added Pin To Net: NetName=SERVO2_PWM Pin=U5-38
+Added Pin To Net: NetName=PC8 Pin=U5-39
+Added Pin To Net: NetName=NetP15_2 Pin=U5-40
+Added Pin To Net: NetName=NetP15_3 Pin=U5-41
+Added Pin To Net: NetName=ESC3_PWM Pin=U5-42
+Added Pin To Net: NetName=ESC4_PWM Pin=U5-43
+Added Pin To Net: NetName=NetR1_2 Pin=U5-44
+Added Pin To Net: NetName=NetR2_2 Pin=U5-45
+Added Pin To Net: NetName=SWDIO Pin=U5-46
+Added Pin To Net: NetName=NetC15_2 Pin=U5-47
+Added Pin To Net: NetName=3V3 Pin=U5-48
+Added Pin To Net: NetName=NetP12_3 Pin=U5-51
+Added Pin To Net: NetName=NetP12_2 Pin=U5-52
+Added Pin To Net: NetName=NetP14_3 Pin=U5-53
+Added Pin To Net: NetName=NetP14_2 Pin=U5-54
+Added Pin To Net: NetName=LED_B Pin=U5-55
+Added Pin To Net: NetName=LED_R Pin=U5-56
+Added Pin To Net: NetName=LED_G Pin=U5-57
+Added Pin To Net: NetName=MCU_BUZZER Pin=U5-58
+Added Pin To Net: NetName=BOOT0 Pin=U5-60
+Added Pin To Net: NetName=NetR24_1 Pin=U5-61
+Added Pin To Net: NetName=NetR25_1 Pin=U5-62
+Added Pin To Net: NetName=GND Pin=U5-63
+Added Pin To Net: NetName=3V3 Pin=U5-64
+Add Differential Pair: Number of nets in differential pair NetR1_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR2_2 is 1 instead of 2
+Added Member To Class: ClassName=POWER Member=Component L1 IND 15uH 3232
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component Q1 BC817
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R13 RC0603JR-0715RL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component R17 RC0603FR-0710KL
+Added Member To Class: ClassName=MICROCONTROLLER Member=Component U5 STM32F405RGT6
